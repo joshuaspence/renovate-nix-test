@@ -1,5 +1,6 @@
 // RENOVATE_TOKEN=$(gh auth token --hostname github.com)
 {
+  dependencyDashboard: true,
   nix: {
     enabled: true,
   },
