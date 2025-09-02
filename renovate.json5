@@ -1,0 +1,6 @@
+// RENOVATE_TOKEN=$(gh auth token --hostname github.com)
+{
+  nix: {
+    enabled: true
+  }
+}
