@@ -1811,6 +1811,22 @@
         "type": "github"
       }
     },
+    "nixpkgs-commit": {
+      "locked": {
+        "lastModified": 1732617236,
+        "narHash": "sha256-PYkz6U0bSEaEB1al7O1XsqVNeSNS+s3NVclJw7YC43w=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "af51545ec9a44eadf3fe3547610a5cdd882bc34e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "af51545ec9a44eadf3fe3547610a5cdd882bc34e",
+        "type": "github"
+      }
+    },
     "nixpkgs-ref-branch": {
       "locked": {
         "lastModified": 1735563628,
@@ -2465,6 +2481,7 @@
         "cachix-gitssh-rev": "cachix-gitssh-rev",
         "flake-compat": "flake-compat_19",
         "nixpkgs-branch": "nixpkgs-branch",
+        "nixpkgs-commit": "nixpkgs-commit",
         "nixpkgs-ref-branch": "nixpkgs-ref-branch",
         "nixpkgs-ref-tag": "nixpkgs-ref-tag",
         "nixpkgs-tar": "nixpkgs-tar"
