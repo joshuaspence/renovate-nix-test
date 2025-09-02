@@ -19,7 +19,7 @@
 
     flake-compat.url = "https://flakehub.com/f/edolstra/flake-compat/1.tar.gz";
 
-    nixpkgs-branch.url = "github:NixOS/nixpkgs/nixos-24.05";
+    nixpkgs-branch.url = "github:NixOS/nixpkgs/nixos-24.11";
     nixpkgs-ref-branch.url = "github:NixOS/nixpkgs?ref=nixos-24.05";
     nixpkgs-ref-tag.url = "github:nixos/nixpkgs?ref=refs/tags/25.05";
     nixpkgs-tar.url = "https://nixos.org/channels/nixpkgs-unstable/nixexprs.tar.xz";
