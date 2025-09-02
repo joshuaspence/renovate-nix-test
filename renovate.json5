@@ -1,9 +1,6 @@
-// LOG_FILE=renovate.log LOG_LEVEL=debug RENOVATE_ALLOWED_ENV=NIX_CONFIG RENOVATE_TOKEN=$(gh auth token --hostname github.com) renovate joshuaspence/renovate-nix-test
+// LOG_FILE=renovate.log LOG_LEVEL=debug RENOVATE_TOKEN=$(gh auth token --hostname github.com) renovate joshuaspence/renovate-nix-test
 {
   dependencyDashboard: true,
-  env: {
-    NIX_CONFIG: 'substituters = https://cache.nixos.org\ntrusted-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY=',
-  },
   lockFileMaintenance: { 
     enabled: true,
     schedule: 'at any time',
