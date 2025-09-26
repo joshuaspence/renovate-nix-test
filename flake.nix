@@ -8,7 +8,7 @@
     cachix-githttps.url = "git+https://github.com/cachix/cachix.git";
     cachix-githttps-ref-head.url = "git+https://github.com/cachix/cachix.git?ref=refs/heads/master";
     cachix-githttps-ref-tag = {
-      url = "git+https://github.com/cachix/cachix.git?ref=refs/tags/v1.7.2";
+      url = "git+https://github.com/cachix/cachix.git?ref=refs/tags/v1.8.0";
     };
 
     cachix-gitssh.url = "git+ssh://git@github.com/cachix/cachix.git";
