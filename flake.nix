@@ -23,7 +23,7 @@
 
     nixpkgs-branch.url = "github:NixOS/nixpkgs/nixos-24.05";
     nixpkgs-commit.url = "github:NixOS/nixpkgs/af51545ec9a44eadf3fe3547610a5cdd882bc34e";
-    nixpkgs-ref-branch.url = "github:NixOS/nixpkgs?ref=nixos-24.05";
+    nixpkgs-ref-branch.url = "github:NixOS/nixpkgs?ref=nixos-24.11";
     nixpkgs-ref-tag.url = "github:nixos/nixpkgs?ref=refs/tags/24.11";
     nixpkgs-tar.url = "https://nixos.org/channels/nixpkgs-unstable/nixexprs.tar.xz";
   };
