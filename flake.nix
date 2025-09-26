@@ -22,7 +22,7 @@
     flake-compat.url = "https://flakehub.com/f/edolstra/flake-compat/1.tar.gz";
 
     nixpkgs-branch.url = "github:NixOS/nixpkgs/nixos-24.05";
-    nixpkgs-commit.url = "github:NixOS/nixpkgs/af51545ec9a44eadf3fe3547610a5cdd882bc34e";
+    nixpkgs-commit.url = "github:NixOS/nixpkgs/69a96435352cf62e183f294f207a4c3a19a7d8dd";
     nixpkgs-ref-branch.url = "github:NixOS/nixpkgs?ref=nixos-24.05";
     nixpkgs-ref-tag.url = "github:nixos/nixpkgs?ref=refs/tags/24.11";
     nixpkgs-tar.url = "https://nixos.org/channels/nixpkgs-unstable/nixexprs.tar.xz";
