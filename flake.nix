@@ -16,7 +16,7 @@
     cachix-gitssh-ref-tag = {
       url = "git+ssh://git@github.com/cachix/cachix.git?ref=refs/tags/v1.7.2";
     };
-    cachix-gitssh-refrev.url = "git+ssh://git@github.com/cachix/cachix.git?ref=refs/tags/v1.7.2&rev=be97b37989f11b724197b5f4c7ffd78f12c8c4bf";
+    cachix-gitssh-refrev.url = "git+ssh://git@github.com/cachix/cachix.git?ref=refs/tags/v1.8.0&rev=47053aef762f452e816e44eb9a23fbc3827b241a";
     cachix-gitssh-rev.url = "git+ssh://git@github.com/cachix/cachix.git?rev=be97b37989f11b724197b5f4c7ffd78f12c8c4bf";
 
     flake-compat.url = "https://flakehub.com/f/edolstra/flake-compat/1.tar.gz";
