@@ -3,7 +3,7 @@
     cachix-github-branch.url = "github:cachix/cachix/master";
     cachix-github-ref-branch.url = "github:cachix/cachix?ref=master";
     cachix-github-ref-head.url = "github:cachix/cachix?ref=refs/heads/master";
-    cachix-github-ref-tag = { url = "github:cachix/cachix?ref=refs/tags/v1.7.2"; };
+    cachix-github-ref-tag = { url = "github:cachix/cachix?ref=refs/tags/v1.8.0"; };
 
     cachix-githttps.url = "git+https://github.com/cachix/cachix.git";
     cachix-githttps-ref-head.url = "git+https://github.com/cachix/cachix.git?ref=refs/heads/master";
